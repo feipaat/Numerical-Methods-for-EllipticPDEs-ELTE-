@@ -1,4 +1,4 @@
-# Numerical-Methods-for-EllipticPDEs-ELTE-
+# Numerical Methods for Elliptic PDEs
 
 Author: Imre Fekete (Department of Applied Analysis and Computational Mathematics, Eötvös Loránd University)
 <br>
